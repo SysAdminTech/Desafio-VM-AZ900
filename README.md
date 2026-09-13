@@ -1,28 +1,22 @@
-# :test_tube: Detalhes do projeto Bootcamp - Cibersegurança
+# :test_tube: Detalhes criação de uma VM - Azure
 
 ## 📌 Sobre o Projeto
 
-Este projeto faz parte do Bootcamp de **Cibersegurança** oferecido pela **DIO (Digital Innovation One)**, e tem como objetivo demonstrar, na prática, a execução de ataques de força bruta (Brute Force) em um ambiente controlado utilizando:
-
-- **Kali Linux** (Host do hacker)
-- **Metasploitable 2** (Estação de aplicações)
-- **Ferramenta Medusa** (Ferramenta do kali usada neste Lab)
+Este projeto faz parte da **Formação Microsoft AZ-900 Certification** oferecido pela **DIO (Digital Innovation One)**, e tem como objetivo demonstrar, na prática, a execução e criação de um VM no Microsoft Azure.
 
 Foram explorados três aplicações principais:
 
-- :card_index_dividers: **FTP** (Servidor de compartilhamento de arquivos pela rede/internet)
-- 🌐 **Aplicação Web (DVWA)** (Explorando pagina de login/formulário)
-- :open_file_folder: **SMB** (password spraying)
+- :card_index_dividers: **VM** (Máquina virtual com Windows Server 2022)
+- :open_file_folder: **Armazenamento (Storage)** (Explorando os tipos e serviços)
+- 🌐 **Região** (Valores e tipos)
 
 ---
 
 ## 🎯 Objetivos
 
-- Simular ataques de força bruta em diferentes aplicações/serviços
-- Utilizar ferramentas de pentest do kali (Medusa e Nmap)
-- Explorar vulnerabilidades em ambientes inseguros (Portas e serviços)
-- Documentar processos técnicos de forma estruturada
-- Praticar segurança ofensiva em laboratório (Kali e Metasploit)
+- Configurações iniciais da VM
+- Escolha da região (Zona) para provisionar a VM
+- Alocação do disco para VM
 
 ---
 
@@ -30,16 +24,14 @@ Foram explorados três aplicações principais:
 
 | Componente | Descrição |
 |---|---|
-| **Sistema do hacker** | Kali Linux |
-| **Sistema do usuário** | Metasploitable 2 |
-| **Ambiente do lab** | VirtualBox |
-| **Conectividade** | Host-Only/Rede interna |
+| **Sistema** | Windows Server 2022 |
+| **Ambiente do lab** | Microsoft Azure |
 
 ---
 
 ## ⚙️ Configuração do Lab
 
-### 🖥️ Virtuais Hosts (VMs)
+### 🖥️ Virtual Machine (VM)
 
 Para o laboratório foi utilizado o VirtualBox (virtualizador) de VMs, Conectividade e outros recursos.
 
