@@ -39,11 +39,28 @@ Para o laboratório foi utilizado o Portal Azure para criação de VM, Conectivi
 *Página inicial para criação de máquinas virtuais*
 
 ![ABA-INICIAL](image/ABA-BASIC.png)
+
 *Configuração inicial para criação de VM*
+
+![DISK](image/CREATE-DISK.png)
+
+*Neste exemplo eu escolhi Premium SSD, mas se a sua VM não exigir muito desempenho, pode selecionar Standard Disk*
+
+![NETWORING](image/CREATE-VNET.png)
+
+*Vnet criada antes da criação da VM e atribuída ao resource group AZLAB*
+
+![MANAGEMENT](image/MANAGEMENT.png)
+
+*Não precisa alterar nada*
+
+![MONITORAMENTO](image/MONITORING.png)
+
+*Manter o padrão*
 
 ---
 
-### 🔐 Informações importantes do Metasploitable
+### 🔐 Informações importantes 
 
 A máquina alvo é um host intencionalmente vulnerável.
 
