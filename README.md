@@ -58,6 +58,18 @@ Para o laboratório foi utilizado o Portal Azure para criação de VM, Conectivi
 
 *Manter o padrão*
 
+![VALIDAÇAO](image/VALIDATION-CONFIG.png)
+
+*Aba Review+Create, validando todas as informações anteriores*
+
+![RESUMO](image/RESUMO+CREATE.png)
+
+*Configurações vallidadas.
+
+![VM-CRIADA](image/VM-CRIADA.png)
+
+*VM Ligada e validada*
+
 ---
 
 ### 🔐 Informações importantes 
