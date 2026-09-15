@@ -33,9 +33,9 @@ Foram explorados três aplicações principais:
 
 ### 🖥️ Virtual Machine (VM)
 
-Para o laboratório foi utilizado o VirtualBox (virtualizador) de VMs, Conectividade e outros recursos.
+Para o laboratório foi utilizado o Portal Azure para criação de VM, Conectividade e outros recursos.
 
-![Ambiente](imagens/Ambiente_VMs.png)
+![Home](imagens/HOME-CREATE-VM)
 *Máquinas importadas no VirtualBox — Metasploitable e Kali Linux em execução simultânea*
 
 ![Kali Linux e Meta](imagens/Vm_execucao.png)
@@ -232,19 +232,7 @@ A utilização da ferramenta **Medusa** evidenciou a importância de controles d
 
 ---
 
-## 🧰 Ferramentas Utilizadas
-
-- [Kali Linux](https://www.kali.org/)
-- [Medusa](http://foofus.net/goons/jmk/medusa/medusa.html)
-- [Nmap](https://nmap.org/)
-- [Metasploitable 2](https://docs.rapid7.com/metasploit/metasploitable-2/)
-- [DVWA](https://dvwa.co.uk/)
-- [VirtualBox](https://www.virtualbox.org/)
-
----
-
 ## ⚠️ Leia
 
 > Este projeto foi elaborado **exclusivamente para fins educacionais** em ambiente controlado e isolado.
 >
-> **Não utilize essas técnicas em sistemas reais sem autorização prévia.** O uso não autorizado dessas ferramentas pode constituir crime previsto na legislação vigente.
