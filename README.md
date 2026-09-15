@@ -35,11 +35,11 @@ Foram explorados três aplicações principais:
 
 Para o laboratório foi utilizado o Portal Azure para criação de VM, Conectividade e outros recursos.
 
-![Home](imagens/HOME-CREATE-VM)
-*Máquinas importadas no VirtualBox — Metasploitable e Kali Linux em execução simultânea*
+![Home](image/HOME-CREATE-VM.png)
+*Página inicial para criação de máquinas virtuais*
 
-![Kali Linux e Meta](imagens/Vm_execucao.png)
-*Interface do Kali Linux e metasploitable*
+![ABA-INICIAL](image/ABA-BASIC.png)
+*Configuração inicial para criação de VM*
 
 ---
 
